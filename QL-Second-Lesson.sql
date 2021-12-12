@@ -1,0 +1,1 @@
+-- SELECT InvoiceDate,InvoiceId, total
